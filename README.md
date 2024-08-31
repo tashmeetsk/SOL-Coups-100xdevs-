@@ -6,11 +6,11 @@ SOL Coups is a user-friendly application designed to help users buy gift voucher
 
 ## Getting Started
 
-To view the application correctly, **please make sure to open only the `index.html` file** in your browser. Opening other files directly may cause incomplete or incorrect rendering of the application.
+To ensure the application displays correctly, **please open only the `index.html` file** in your browser. Opening other files directly may cause incomplete or incorrect rendering.
 
 ### Prerequisites
 
-1. The latest version of any js supporting webbrowser, e.g, [Google Chrome](https://www.google.com/chrome/what-you-make-of-it/).
+1. The latest version of any js supporting webbrowser, e.g., [Google Chrome](https://www.google.com/chrome/what-you-make-of-it/).
 2. A directory to store all our files seperately :)
 3. A crypto wallet that supports the Solana blockchain (such as, [Phantom Wallet](https://phantom.app/)). **Please ensure payments are made through a Solana Devnet account.**
 
@@ -38,7 +38,7 @@ The page should look something like this-
 </dd></dl></dd></dl></dd></dl>
 <br>
 
-On providing your email address and amount you want on your gift voucher, sol coups will give you an approximate value of inr you will need to send via crypto to get the voucher you want. The application then takes you to the next page where payment details are finalized.
+By providing your email address and the amount you want for your gift voucher, SOL Coups will calculate the approximate INR value you need to send via crypto to obtain your desired voucher. The application will then direct you to the next page to finalize your payment details.
 
 <dl><dd><dl><dd><dl><dd>
   <div>
@@ -47,7 +47,7 @@ On providing your email address and amount you want on your gift voucher, sol co
 </dd></dl></dd></dl></dd></dl>
 <br>
 
-Once a correct sender's wallet address is provided, user is taken to the payment gateway where awindow of 5 min opens for user to make payment using your **Solana devnet account**.
+Once a valid sender's wallet address is provided, you will be directed to the payment gateway. A 5-minute window will open for you to complete the payment using your **Solana devnet account.**
 
 <dl><dd><dl><dd><dl><dd>
   <div>
@@ -56,7 +56,7 @@ Once a correct sender's wallet address is provided, user is taken to the payment
 </dd></dl></dd></dl></dd></dl>
 <br>
 
-On successfull payment, text on the page is updated, and an email with a randomly generated code is sent to the user's imputted email.
+Upon successful payment, the text on the page will be updated, and a confirmation email containing a randomly generated code will be sent to the email address you provided.
 
 <dl><dd><dl><dd><dl><dd>
   <div>
@@ -75,9 +75,9 @@ Email that is recieved-
 
 ## Features
 
-- **Multi-Page Navigation:** Smooth transitions between different pages within the application.
-- **Email Validation:** Ensures that users input a valid email address before proceeding with transactions.
-- **Cryptocurrency Payment:** Handles payments using COL coins, converting them to gift vouchers.
+- **Multi-Page Navigation:** Ensure smooth transitions between different pages within the application.
+- **Email Validation:** Ensure that users input a valid email address before proceeding with the transaction.
+- **Cryptocurrency Payment:** Handles payments using Devnet SOL coins and converts them into gift vouchers.
 - **Wallet Address Validation:** Checks the validity of the user's Solana wallet address before processing transactions.
 
 ## Refereces
@@ -103,9 +103,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/SOGeKING-NUL/SOL-Coups-100
 
 ## Authors
 
-* **SOGeKING** - [SOGeKING-NUL](https://github.com/SOGeKING-NUL/)
+* **Utsav** - [SOGeKING-NUL](https://github.com/SOGeKING-NUL/)
 * **Tashmeet** - [tashmeetsk](https://github.com/tashmeetsk/)
 
-See also the list of [contributors](https://github.com/SOGeKING-NUL/SOL-Coups-100xdevs-/contributors) who participated in this project
+The list of [contributors](https://github.com/SOGeKING-NUL/SOL-Coups-100xdevs-/contributors) who participated in this project.
 
 ### Disclaimer, this application is designed to work exclusively on the Solana Devnet. Please refrain from using real Solana tokens (SOL) for transactions.
